@@ -33,9 +33,7 @@
     height: 65px;
     margin: 21px auto 22px;
     font-family: "Cabin", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    font-style:normal;
     font-variation-settings:
     "wdth" 100;
     line-height: 21.87px;
@@ -45,7 +43,6 @@
     vertical-align: middle;
     margin-right: 40px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -58,7 +55,6 @@
     display: inline-block;
     vertical-align: middle;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -75,7 +71,6 @@
     vertical-align: middle;
     margin-left: 40px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -89,7 +84,6 @@
     vertical-align: middle;
     margin-left: 40px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -103,7 +97,6 @@
     vertical-align: middle;
     margin-left: 11px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -130,7 +123,6 @@
     text-align: center;
     margin-bottom: 16px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     font-variation-settings:
@@ -214,7 +206,6 @@
     line-height: 21.78px;
     color:#6B77E5;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
     font-variation-settings:
@@ -275,7 +266,6 @@
     font-size: 18px;
     line-height: 21.78px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     font-variation-settings:
@@ -288,7 +278,6 @@
     font-size: 40px;
     line-height: 48.4px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     font-variation-settings:
@@ -301,7 +290,6 @@
     font-size: 18px;
     line-height: 26.31px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -325,7 +313,6 @@
     font-size: 18px;
     line-height: 21.78px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     font-variation-settings:
@@ -337,7 +324,6 @@
     font-size: 40px;
     line-height: 48.4px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     font-variation-settings:
@@ -379,7 +365,6 @@
     text-align: center;
     margin: 24px 69px;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
     font-variation-settings:
@@ -395,7 +380,6 @@
     line-height: 24.33px;
     color: #7D7D7D;
     font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
